@@ -1,3 +1,3 @@
 #Título do arquivo
 
-Jairex
+Jairexgit remote -v
